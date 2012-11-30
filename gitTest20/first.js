@@ -13,3 +13,7 @@ var		pjatyj = "pjat"
 
 var		sixth = "six";
 var		sedmoj = "sem";
+
+// remote wave
+var     eights = "eight";
+var     devjatyj = "devjat";
