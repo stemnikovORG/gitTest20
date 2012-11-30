@@ -21,3 +21,7 @@ var     devjatyj = "devjat";
 // fourth wave after unsynced modifs on remote server
 var		tenth = "ten";
 var		odinnadcatj = "odin odin";
+
+// fifth wave for local
+var		d12 = "12";
+var		t13 = "13";
