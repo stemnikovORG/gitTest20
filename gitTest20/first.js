@@ -25,3 +25,7 @@ var		odinnadcatj = "odin odin";
 // fifth wave for local
 var		d12 = "12";
 var		t13 = "13";
+
+// sixth wave on local itself
+var		ch14 = "14";
+var		p15 = "15";
