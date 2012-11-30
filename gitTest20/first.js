@@ -1,0 +1,2 @@
+﻿
+var		vtoroy = "dva";
