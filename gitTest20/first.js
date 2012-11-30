@@ -11,3 +11,5 @@ var		third = "three";
 var		fourth = "four"
 var		pjatyj = "pjat"
 
+var		sixth = "six";
+var		sedmoj = "sem";
