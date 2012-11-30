@@ -14,7 +14,10 @@ var		pjatyj = "pjat"
 var		sixth = "six";
 var		sedmoj = "sem";
 
+// remote wave
+var     eights = "eight";
+var     devjatyj = "devjat";
+
 // fourth wave after unsynced modifs on remote server
 var		tenth = "ten";
 var		odinnadcatj = "odin odin";
-
