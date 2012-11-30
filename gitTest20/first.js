@@ -29,3 +29,7 @@ var		t13 = "13";
 // sixth wave on local itself
 var		ch14 = "14";
 var		p15 = "15";
+
+// seventh wave on local itself
+var		sh16 = "16";
+var		s17 = "17";
