@@ -33,3 +33,7 @@ var		p15 = "15";
 // seventh wave on local itself
 var		sh16 = "16";
 var		s17 = "17";
+
+// eights wave on local 
+
+var		e18 = "18";
